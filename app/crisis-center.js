@@ -42,7 +42,8 @@ function CrisisService($q) {
     {id: 1, name: 'Princess Held Captive'},
     {id: 2, name: 'Dragon Burning Cities'},
     {id: 3, name: 'Giant Asteroid Heading For Earth'},
-    {id: 4, name: 'Release Deadline Looms'}
+    {id: 4, name: 'Release Deadline Looms'},
+    {id: 5, name: 'I Have No Idea What This Means'}
   ]);
 
   this.getCrises = function() {

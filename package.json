@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": { "start": "lite-server" },
   "dependencies": {
-    "@angular/router": "*",
+    "ngcomponentrouter": "*",
     "angular": "1.5.0"
   },
   "devDependencies": {
